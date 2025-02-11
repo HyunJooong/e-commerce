@@ -26,10 +26,9 @@
   - 로그인 비로그인 여부 상관 없이 상품명을 검색 할 수 있다.
 
 ## ERD 
-![ERD](doc/img/erd.png)
 
 ## Trouble Shooting
-[go to the trouble shooting section](doc/TROUBLE_SHOOTING.md)
+https://www.notion.so/Trouble-Shooting-1972a2fd6ec380e88645c14343663fff?showMoveTo=true&saveParent=true
 
 ### Tech Stack
 <div align=center> 
